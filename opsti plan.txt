@@ -1,0 +1,19 @@
+﻿1) Uvod
+a. Opis sistema
+b. Opis aktera
+c. Ogranicenja I moguca poboljsanja?
+2) Analiza sistema
+a. Dijagrami toka podataka
+b. Dijagram stanja rukopisa
+3) Use cases
+a. Glavni use case dijagram
+b. Detaljno za svaki (sa dijagramima sekvenci ili aktivnosti, u zavisnosti od toga sta vise odgovara slucaju)
+4) Klase podataka
+a. EER
+b. O svakoj klasi
+5) Zakljucak
+6) Reference I korisceni alati
+
+
+
+
